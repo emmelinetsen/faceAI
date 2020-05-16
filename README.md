@@ -4,7 +4,9 @@
 
 1. Model Tuning: 
 
-2. Tensorboard: https://tensorboard.dev/experiment/0rkOZGqGS9W8JvHKLLWzDA/#scalars
+2. Tensorboards: https://tensorboard.dev/experiment/0rkOZGqGS9W8JvHKLLWzDA/#scalars
+
+https://tensorboard.dev/experiment/txnmgBizRwOiRiQjPH8Ckg/#scalars
 
 3. PPT Presentation: https://docs.google.com/presentation/d/125pn6195yVQvtffIk5azrCLuJhoNJ5rP8eIET9JEqSo/edit?usp=sharing
 
