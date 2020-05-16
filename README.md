@@ -1,7 +1,6 @@
 # Facial Expression Recognition
-##### Emmeline Tsen
-##### Jacky Chow
-##### Jerry Huang
+### Emmeline Tsen, Jacky Chow, Jerry Huang
+
 
 1. Model Tuning: 
 
