@@ -1,8 +1,9 @@
 # Facial Expression Recognition
 ### Emmeline Tsen, Jacky Chow, Jerry Huang
-
+Google Drive: https://drive.google.com/open?id=1oHKGID_ZQd5Qc4GMpCXwoRXcUSgEZVke
 
 1. Model Tuning: 
+- colab - https://drive.google.com/open?id=1hMFPXGbaKCsl4wZEKx-hlMoK_SsYXiJ7
 
 2. Tensorboards: 
 - https://tensorboard.dev/experiment/0rkOZGqGS9W8JvHKLLWzDA/#scalars
