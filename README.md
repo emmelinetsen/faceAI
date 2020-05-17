@@ -15,5 +15,7 @@ https://tensorboard.dev/experiment/txnmgBizRwOiRiQjPH8Ckg/#scalars
 colab - https://colab.research.google.com/drive/1EdowXhcXoMCQeDT6t8iiQlCJOSD9Uzhc?usp=sharing
 
 5. GANs to generate faces: https://github.com/emmelinetsen/faceAI/tree/master/GAN
+colab (Face GAN) - https://colab.research.google.com/drive/19rTG_zvWSptftUQU-hyEfsG_R1cc0gb-?usp=sharing
+colab (Transfer Learning and StyleGAN2) - https://colab.research.google.com/drive/1M0z-q9VzN7b36ZVeyHf1PZXJGKREiG-G?usp=sharing
 
 6. Determine facial expressions using faces from GAN - https://github.com/emmelinetsen/faceAI/blob/master/Gan_test_258Project.ipynb
